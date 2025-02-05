@@ -1,4 +1,4 @@
-# Tic-Tac-Toe with Alpha-Beta Pruning
+# Real-Time Analysis of Tic-Tac-Toe with Alpha-Beta Pruning
 
 This project implements a Tic-Tac-Toe game powered by **Alpha-Beta Pruning**, a key AI algorithm for optimizing decision-making in games. It offers players a dynamic and interactive experience while simultaneously providing real-time insights into the performance of the AI agent.
 
