@@ -26,9 +26,10 @@ This project implements a Tic-Tac-Toe game powered by **Alpha-Beta Pruning**, a 
 1. **Select Game Settings**: Choose the board size and pruning mode (Sequential/Parallel).
 2. **Play the Game**: The user plays against the AI, making moves turn by turn.
 3. **Log and Visualize Data**: After the game, session details are stored in a Google Sheet and visualized through Looker Studio for real-time performance analysis.
-   ![Screenshot 2025-02-05 073059](https://github.com/user-attachments/assets/b4c30e00-1c48-44a3-aaa4-310d34900adc)
+   
+  ![Screenshot 2024-12-05 130152](https://github.com/user-attachments/assets/2969104a-8a16-4917-8767-0be570276d33)
 
-
+  
 ## Purpose
 
 This project demonstrates:
@@ -41,7 +42,7 @@ This project demonstrates:
 - **Programming Language**: Python
 - **AI Algorithm**: Alpha-Beta Pruning (Sequential and Parallel)
 - **Data Storage**: Google Sheets (Using API calls)
-- **Data Visualization**: Google Looker Studio
+- **Data Visualization**: [Google Looker Studio](https://lookerstudio.google.com/reporting/9f8019e6-a18e-48d9-b41a-647ddfa55131)
 
 ## Real-Time Insights
 
