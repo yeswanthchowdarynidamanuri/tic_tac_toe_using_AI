@@ -40,9 +40,8 @@ This project demonstrates:
 
 - **Programming Language**: Python
 - **AI Algorithm**: Alpha-Beta Pruning (Sequential and Parallel)
-- **Data Storage**: Google Sheets API
+- **Data Storage**: Google Sheets (Using API calls)
 - **Data Visualization**: Google Looker Studio
-- **Parallelization Framework**: CUDA (for Parallel Alpha-Beta Pruning)
 
 ## Real-Time Insights
 
